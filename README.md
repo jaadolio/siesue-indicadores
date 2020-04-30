@@ -9,7 +9,7 @@ Esta función fue creada para invocar al objeto tipo vista de la Base de Datos *
 
 ## Nuevos objetos Base de Datos:
 
-Se crean las tablas **"user_roles"** y la vista **"users_per_universities"** dentro de la Base de Datos siesue para efectos de poder hacer la unión de las tablas "users" y "universities". Se crea también la función **"FORMATEAR_FECHAS"** para así poder formatear los campos de fechas incluidos en la tabla "users".
+Se crean las tablas **"user_roles"** y la vista **"users_per_universities"** dentro de la Base de Datos siesue para efectos de poder hacer la unión de las tablas **"users"** y **"universities"**. Se crea también la función **"FORMATEAR_FECHAS"** para así poder formatear los campos de fechas incluidos en la tabla **"users"**.
 
 ## Nuevas Entidades y Tablas:
 
