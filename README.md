@@ -1,7 +1,7 @@
 # siesue-indicadores
 Repositorio Cambios Realizados Sistema Registro Indicadores SIESUE. DPI - CONARE
 
-# Implementación Nuevas Funcionalidades (27/04/2020)
+# Implementación Nuevas Funcionalidades (28/04/2020)
 
 ## Nueva función userinformationuniversity:
 
