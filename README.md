@@ -13,7 +13,7 @@ Se crean las tablas **"user_roles"** y la vista **"users_per_universities"** den
 
 ## Nuevas Entidades y Tablas:
 
-A nivel del CakePHP se crean las Entidades y Tablas de la tabla "user_roles" y la vista "users_per_universities". Éstas se ubican dentro de las siguientes rutas:
+A nivel del CakePHP se crean las Entidades y Tablas de la tabla **"user_roles"** y la vista **"users_per_universities"**. Éstas se ubican dentro de las siguientes rutas:
 
 - src/Model/Entity/Userroles.php
 - src/Model/Entity/Userperuniversities.php
